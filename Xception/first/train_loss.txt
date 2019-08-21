@@ -1,0 +1,2 @@
+train loss: 0.2690552009840178
+validation loss: 0.4735967640651271
